@@ -1,1 +1,1 @@
-# Ainftgenerator
+# Ai nft generator
